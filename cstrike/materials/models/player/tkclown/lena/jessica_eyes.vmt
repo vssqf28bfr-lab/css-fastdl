@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/techknow/jessica/jessica_head_skin_d"
+	//"$bumpmap"     "models/player/techknow/jessica/jessica_head_skin_d_normal"
+	"$bumpmap"     "models/player/techknow/jessica/jessica_body_normal"
+
+        "$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" "3"
+	"$phongfresnelranges"	"[.1 .1 .1]"	
+}
